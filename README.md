@@ -1,1 +1,1 @@
-Maximize your scrolls/minute
+Maximize your scrolls per minute
