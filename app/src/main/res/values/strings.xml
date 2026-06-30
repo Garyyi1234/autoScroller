@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoScroller</string>
+    <string name="accessibility_service_description">Provides an overlay button to auto-scroll (swipe up) the screen.</string>
+</resources>

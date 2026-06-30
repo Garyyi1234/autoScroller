@@ -1,0 +1,35 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# IDE - IntelliJ / Android Studio
+.idea
+
+# Local configuration
+local.properties
+
+# Build Artifacts
+*.apk
+*.ap_
+*.aab
+*.dex
+
+# Signing files
+*.jks
+*.keystore
+*.pepk
+
+# Captures and Logs
+captures/
+*.log
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Kotlin cache
+.kotlin/
+
+# Heap Dumps & Scratch files
+*.hprof
